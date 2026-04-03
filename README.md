@@ -4,6 +4,12 @@ Projeto de uma aplicação web para pedidos de hambúrguer, desenvolvido com foc
 
 ---
 
+## 🌐 Acesse o Projeto
+
+👉 https://paulo-henrique25.github.io/Project-Arrays/
+
+---
+
 ## 📌 Sobre o Projeto
 
 O **Dev Burguer** é um projeto que simula uma hamburgueria online, onde o usuário pode visualizar produtos, selecionar opções e interagir com a interface de forma simples e intuitiva.
